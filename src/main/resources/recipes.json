@@ -1,0 +1,355 @@
+[
+  {
+    "prompt": {
+      "ingredients": [
+        "ryż",
+        "indyk",
+        "brokuł",
+        "cebula"
+      ]
+    },
+    "answer": {
+      "recipes": [
+        {
+          "recipe": "Curry z indyka i brokułów",
+          "ingredients": [
+            {
+              "name": "indyk",
+              "quantity": 500.0,
+              "unit": "g"
+            },
+            {
+              "name": "brokuł",
+              "quantity": 400.0,
+              "unit": "g"
+            },
+            {
+              "name": "cebula",
+              "quantity": 1.0,
+              "unit": "sztuka"
+            },
+            {
+              "name": "ryż",
+              "quantity": 300.0,
+              "unit": "g"
+            }
+          ],
+          "additionalIngredients": [
+            {
+              "name": "olej",
+              "quantity": 2.0,
+              "unit": "łyżki"
+            },
+            {
+              "name": "curry",
+              "quantity": 2.0,
+              "unit": "łyżeczki"
+            },
+            {
+              "name": "mleko kokosowe",
+              "quantity": 400.0,
+              "unit": "ml"
+            },
+            {
+              "name": "sos sojowy",
+              "quantity": 2.0,
+              "unit": "łyżki"
+            },
+            {
+              "name": "sól",
+              "quantity": 1.0,
+              "unit": "łyżeczka"
+            },
+            {
+              "name": "pieprz",
+              "quantity": 1.0,
+              "unit": "łyżeczka"
+            }
+          ],
+          "minutes": 30,
+          "instructions": [
+            "Pokrój indyka, brokuły i cebulę na kawałki.",
+            "Rozgrzej olej w dużym garnku i podsmaż cebulę.",
+            "Dodaj indyka i smaż przez kilka minut, aż będzie lekko zarumieniony.",
+            "Dodaj curry i wymieszaj, aby pokryć mięso.",
+            "Dodaj brokuły, mleko kokosowe i sos sojowy.",
+            "Przykryj garnek i gotuj na małym ogniu przez około 20 minut, aż indyk i brokuły będą miękkie.",
+            "W międzyczasie gotuj ryż zgodnie z instrukcją na opakowaniu.",
+            "Pod koniec gotowania dodaj sól i pieprz do curry w zależności od preferowanego smaku.",
+            "Podawaj curry z indyka i brokułów na gorącym ryżu."
+          ],
+          "kcal": 450
+        },
+        {
+          "recipe": "Ryż zapiekany z indykiem i brokułami",
+          "ingredients": [
+            {
+              "name": "indyk",
+              "quantity": 500.0,
+              "unit": "g"
+            },
+            {
+              "name": "brokuł",
+              "quantity": 400.0,
+              "unit": "g"
+            },
+            {
+              "name": "cebula",
+              "quantity": 1.0,
+              "unit": "sztuka"
+            },
+            {
+              "name": "ryż",
+              "quantity": 300.0,
+              "unit": "g"
+            }
+          ],
+          "additionalIngredients": [
+            {
+              "name": "masło",
+              "quantity": 2.0,
+              "unit": "łyżki"
+            },
+            {
+              "name": "sól",
+              "quantity": 1.0,
+              "unit": "łyżeczka"
+            },
+            {
+              "name": "kurkuma",
+              "quantity": 1.0,
+              "unit": "łyżeczka"
+            },
+            {
+              "name": "pieprz",
+              "quantity": 1.0,
+              "unit": "łyżeczka"
+            },
+            {
+              "name": "ser żółty",
+              "quantity": 100.0,
+              "unit": "g"
+            }
+          ],
+          "minutes": 40,
+          "instructions": [
+            "Pokrój indyka, brokuły i cebulę na kawałki.",
+            "Rozgrzej masło w dużym garnku i podsmaż cebulę, aż będzie przezroczysta.",
+            "Dodaj mięso i smaż, aż będzie lekko zarumienione.",
+            "Dodaj brokuły i wymieszaj.",
+            "Dodaj ryż i wymieszaj.",
+            "Dodaj sól, kurkumę i pieprz.",
+            "Podlej wszystko wodą (proporcje wskazane na opakowaniu ryżu) i gotuj, aż ryż i brokuły będą miękkie.",
+            "Przełóż mieszankę do naczynia żaroodpornego i posyp startym serem.",
+            "Zapiekaj w piekarniku nagrzanym do 180°C przez około 10-15 minut, aż ser się rozpuści i zbrązowieje.",
+            "Podawaj zapiekankę na gorąco."
+          ],
+          "kcal": 520
+        },
+        {
+          "recipe": "Sałatka z indykiem, brokułem i ryżem",
+          "ingredients": [
+            {
+              "name": "indyk",
+              "quantity": 500.0,
+              "unit": "g"
+            },
+            {
+              "name": "brokuł",
+              "quantity": 400.0,
+              "unit": "g"
+            },
+            {
+              "name": "cebula",
+              "quantity": 1.0,
+              "unit": "sztuka"
+            },
+            {
+              "name": "ryż",
+              "quantity": 300.0,
+              "unit": "g"
+            }
+          ],
+          "additionalIngredients": [
+            {
+              "name": "oliwa z oliwek",
+              "quantity": 3.0,
+              "unit": "łyżki"
+            },
+            {
+              "name": "sok z cytryny",
+              "quantity": 1.0,
+              "unit": "łyżka"
+            },
+            {
+              "name": "musztarda",
+              "quantity": 1.0,
+              "unit": "łyżeczka"
+            },
+            {
+              "name": "sól",
+              "quantity": 1.0,
+              "unit": "łyżeczka"
+            },
+            {
+              "name": "pieprz",
+              "quantity": 1.0,
+              "unit": "łyżeczka"
+            }
+          ],
+          "minutes": 20,
+          "instructions": [
+            "Pokrój indyka, brokuły i cebulę na kawałki.",
+            "Ugotuj ryż zgodnie z instrukcją na opakowaniu.",
+            "W dużym garnku podsmaż cebulę na oliwie z oliwek, aż będzie lekko zrumieniona.",
+            "Dodaj indyka i smaż przez kilka minut, aż będzie dobrze usmażony z każdej strony.",
+            "Dodaj brokuły i smaż przez kilka minut, aż będą miękkie, ale wciąż chrupiące.",
+            "Dodaj sól, pieprz, sok z cytryny i musztardę. Wymieszaj.",
+            "Na koniec dodaj ugotowany ryż i delikatnie wymieszaj, aby składniki się połączyły.",
+            "Podawaj sałatkę na ciepło lub na zimno."
+          ],
+          "kcal": 400
+        }
+      ]
+    }
+  },
+  {
+    "prompt": {
+      "ingredients": [
+        "ryż",
+        "olej sezamowy",
+        "sos sojowy",
+        "tuńczyk",
+        "cebula"
+      ]
+    },
+    "recipes": [
+      {
+        "recipe": "Tuńczyk poke bowl",
+        "ingredients": [
+          {
+            "name": "ryż",
+            "quantity": 300.0,
+            "unit": "g"
+          },
+          {
+            "name": "tuńczyk",
+            "quantity": 200.0,
+            "unit": "g"
+          },
+          {
+            "name": "cebula",
+            "quantity": 1.0,
+            "unit": "pc"
+          }
+        ],
+        "additionalIngredients": [
+          {
+            "name": "olej sezamowy",
+            "quantity": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "name": "sos sojowy",
+            "quantity": 2.0,
+            "unit": "tbsp"
+          }
+        ],
+        "minutes": 30,
+        "instructions": [
+          "Ugotuj ryż według wskazówek na opakowaniu.",
+          "Pokrój tuńczyka i cebulę w małą kostkę.",
+          "W misce wymieszaj olej sezamowy i sos sojowy.",
+          "Na spód miski połóż ugotowany ryż.",
+          "Na ryżu rozłóż pokrojonego tuńczyka i cebulę.",
+          "Skrop wszystko przygotowanym sosem.",
+          "Możesz podać od razu lub schłodzić w lodówce przed podaniem."
+        ],
+        "kcal": 400
+      },
+      {
+        "recipe": "Sałatka z tuńczykiem i cebulą",
+        "ingredients": [
+          {
+            "name": "tuńczyk",
+            "quantity": 200.0,
+            "unit": "g"
+          },
+          {
+            "name": "cebula",
+            "quantity": 1.0,
+            "unit": "pc"
+          }
+        ],
+        "additionalIngredients": [
+          {
+            "name": "ryż",
+            "quantity": 200.0,
+            "unit": "g"
+          },
+          {
+            "name": "olej sezamowy",
+            "quantity": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "name": "sos sojowy",
+            "quantity": 2.0,
+            "unit": "tbsp"
+          }
+        ],
+        "minutes": 20,
+        "instructions": [
+          "Ugotuj ryż według wskazówek na opakowaniu.",
+          "Pokrój tuńczyka i cebulę w małą kostkę.",
+          "W misce wymieszaj tuńczyka, cebulę, olej sezamowy i sos sojowy.",
+          "Dodaj ugotowany ryż i delikatnie wymieszaj.",
+          "Podawaj schłodzoną sałatkę."
+        ],
+        "kcal": 350
+      },
+      {
+        "recipe": "Makaron z tuńczykiem i cebulą",
+        "ingredients": [
+          {
+            "name": "tuńczyk",
+            "quantity": 200.0,
+            "unit": "g"
+          },
+          {
+            "name": "cebula",
+            "quantity": 1.0,
+            "unit": "pc"
+          }
+        ],
+        "additionalIngredients": [
+          {
+            "name": "makaron",
+            "quantity": 300.0,
+            "unit": "g"
+          },
+          {
+            "name": "olej sezamowy",
+            "quantity": 2.0,
+            "unit": "tbsp"
+          },
+          {
+            "name": "sos sojowy",
+            "quantity": 2.0,
+            "unit": "tbsp"
+          }
+        ],
+        "minutes": 25,
+        "instructions": [
+          "Ugotuj makaron według wskazówek na opakowaniu.",
+          "Pokrój tuńczyka i cebulę w małą kostkę.",
+          "Na patelni rozgrzej olej sezamowy, dodaj cebulę i tuńczyka.",
+          "Smaż przez kilka minut, aż tuńczyk się podsmaży.",
+          "Dodaj ugotowany makaron i sos sojowy.",
+          "Dokładnie wymieszaj i podawaj od razu."
+        ],
+        "kcal": 450
+      }
+    ]
+  }
+]
