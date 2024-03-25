@@ -3,7 +3,7 @@ on: [push, pull_request]
 jobs:
   build:
     name: HelloWorld on ${{ matrix.os }}
-    runs-on: ${{ matrix.os }}
+    runs-on: self-hosted
     strategy:
       matrix:
         os: [macos-latest, windows-latest, ubuntu-latest]
@@ -23,9 +23,3 @@ jobs:
           javac HelloWorld.java
           native-image HelloWorld
           ./helloworld
-      
-      - name: Upload binary
-        uses: actions/upload-artifact@v2
-        with:
-          name: helloworld-${{ matrix.os }}
-          path: helloworld*
